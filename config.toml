@@ -1,0 +1,4 @@
+baseURL = 'https://donbraulio.github.io/'
+languageCode = 'en-us'
+title = 'Public Persona'
+theme = "ananke"
