@@ -1,4 +1,4 @@
-baseURL = 'https://donbraulio.github.io/'
+baseURL = 'https://donbraulio.github.io/public/'
 languageCode = 'en-us'
 title = 'Public Persona'
 theme = "ananke"

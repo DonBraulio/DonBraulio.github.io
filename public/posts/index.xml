@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Public Persona</title>
-    <link>https://donbraulio.github.io/posts/</link>
+    <link>https://donbraulio.github.io/public/posts/</link>
     <description>Recent content in Posts on Public Persona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Feb 2022 22:27:59 -0300</lastBuildDate><atom:link href="https://donbraulio.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 22:27:59 -0300</lastBuildDate><atom:link href="https://donbraulio.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Blog</title>
-      <link>https://donbraulio.github.io/posts/03-02-2022-intro/</link>
+      <link>https://donbraulio.github.io/public/posts/03-02-2022-intro/</link>
       <pubDate>Thu, 03 Feb 2022 22:27:59 -0300</pubDate>
       
-      <guid>https://donbraulio.github.io/posts/03-02-2022-intro/</guid>
+      <guid>https://donbraulio.github.io/public/posts/03-02-2022-intro/</guid>
       <description></description>
     </item>
     
